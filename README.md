@@ -5,6 +5,7 @@ This Project focuses on making the process easy to get the predicted Secondary S
 
 # Technologies and Tools:
 i) Programming Language: Python
+
 ii) Libraries: 
 1) NumPy for handling arrays and data structures
 2) plotext for displaying graph on the terminal itself

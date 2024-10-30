@@ -1,0 +1,5 @@
+pip install numpy
+pip install requests
+pip install plotext
+pip install tabulate
+pip install colorama
